@@ -12,6 +12,7 @@ Godot 4.3, GodotSharp, Godot Windows exporting template, RestSharp, Game Maker S
 
 ## Run the project
 Run the project from Godot or open `executable` folder and run the `IslandHeightGame.exe` or `IslandHeightGame.console.exe` for debug mode.
+Note that the game requires internet connection.
 
 ## QA
 QA report is written in the `QA TESTING.txt` file.
