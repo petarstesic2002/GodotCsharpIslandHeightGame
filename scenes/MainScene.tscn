@@ -1,0 +1,36 @@
+[gd_scene load_steps=2 format=3 uid="uid://14y0c00laclq"]
+
+[ext_resource type="Script" path="res://scenes/classes/MainScene.cs" id="1_mh01g"]
+
+[node name="MainScene" type="CenterContainer"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_mh01g")
+
+[node name="MainUIVBox" type="VBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MainUIVBox"]
+layout_mode = 2
+theme_override_constants/separation = 30
+
+[node name="CenterContainer" type="CenterContainer" parent="MainUIVBox/HBoxContainer"]
+layout_mode = 2
+
+[node name="MapGridContainer" type="GridContainer" parent="MainUIVBox/HBoxContainer/CenterContainer"]
+layout_mode = 2
+theme_override_constants/h_separation = 3
+theme_override_constants/v_separation = 3
+columns = 30
+
+[node name="LegendColorBar" type="TextureRect" parent="MainUIVBox/HBoxContainer"]
+layout_mode = 2
+
+[node name="LegendColorBarLabels" type="VBoxContainer" parent="MainUIVBox/HBoxContainer"]
+layout_mode = 2
+
+[node name="PlayerHBox" type="HBoxContainer" parent="MainUIVBox"]
+layout_mode = 2

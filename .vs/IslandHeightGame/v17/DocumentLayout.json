@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Petar\\Documents\\islandheightgame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|c:\\users\\petar\\documents\\islandheightgame\\scenes\\classes\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|solutionrelative:scenes\\classes\\mainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|c:\\users\\petar\\documents\\islandheightgame\\scenes\\classes\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|solutionrelative:scenes\\classes\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|c:\\users\\petar\\documents\\islandheightgame\\common\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|solutionrelative:common\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|c:\\users\\petar\\documents\\islandheightgame\\common\\twokeydictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|solutionrelative:common\\twokeydictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|c:\\users\\petar\\documents\\islandheightgame\\common\\mapcolorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|solutionrelative:common\\mapcolorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|c:\\users\\petar\\documents\\islandheightgame\\common\\island.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|solutionrelative:common\\island.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|c:\\users\\petar\\documents\\islandheightgame\\common\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|solutionrelative:common\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|c:\\users\\petar\\documents\\islandheightgame\\common\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|solutionrelative:common\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|c:\\users\\petar\\documents\\islandheightgame\\scenes\\classes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|solutionrelative:scenes\\classes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|c:\\users\\petar\\documents\\islandheightgame\\api\\mapdatafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|solutionrelative:api\\mapdatafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|c:\\users\\petar\\documents\\islandheightgame\\api\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C48530-F3DD-4124-A01D-774039A182B3}|IslandHeightGame.csproj|solutionrelative:api\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\GameResult.cs",
+              "RelativeDocumentMoniker": "common\\GameResult.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\GameResult.cs",
+              "RelativeToolTip": "common\\GameResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:37:03.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\islandheightgame\\scenes\\classes\\MainMenu.cs",
+              "RelativeDocumentMoniker": "scenes\\classes\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\islandheightgame\\scenes\\classes\\MainMenu.cs",
+              "RelativeToolTip": "scenes\\classes\\MainMenu.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwEkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:59:51.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TwoKeyDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\TwoKeyDictionary.cs",
+              "RelativeDocumentMoniker": "common\\TwoKeyDictionary.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\TwoKeyDictionary.cs",
+              "RelativeToolTip": "common\\TwoKeyDictionary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:02:09.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\Game.cs",
+              "RelativeDocumentMoniker": "common\\Game.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\Game.cs",
+              "RelativeToolTip": "common\\Game.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:14:46.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\Player.cs",
+              "RelativeDocumentMoniker": "common\\Player.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\Player.cs",
+              "RelativeToolTip": "common\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:02:48.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Island.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\Island.cs",
+              "RelativeDocumentMoniker": "common\\Island.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\Island.cs",
+              "RelativeToolTip": "common\\Island.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:37:30.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainScene.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\islandheightgame\\scenes\\classes\\MainScene.cs",
+              "RelativeDocumentMoniker": "scenes\\classes\\MainScene.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\islandheightgame\\scenes\\classes\\MainScene.cs",
+              "RelativeToolTip": "scenes\\classes\\MainScene.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:26:37.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapColorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\MapColorHelper.cs",
+              "RelativeDocumentMoniker": "common\\MapColorHelper.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\islandheightgame\\common\\MapColorHelper.cs",
+              "RelativeToolTip": "common\\MapColorHelper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:29:53.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\islandheightgame\\scenes\\classes\\Cell.cs",
+              "RelativeDocumentMoniker": "scenes\\classes\\Cell.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\islandheightgame\\scenes\\classes\\Cell.cs",
+              "RelativeToolTip": "scenes\\classes\\Cell.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:28:47.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapDataFetcher.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\islandheightgame\\api\\MapDataFetcher.cs",
+              "RelativeDocumentMoniker": "api\\MapDataFetcher.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\islandheightgame\\api\\MapDataFetcher.cs",
+              "RelativeToolTip": "api\\MapDataFetcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:49:30.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Http.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Documents\\islandheightgame\\api\\Http.cs",
+              "RelativeDocumentMoniker": "api\\Http.cs",
+              "ToolTip": "C:\\Users\\Petar\\Documents\\islandheightgame\\api\\Http.cs",
+              "RelativeToolTip": "api\\Http.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:47:29.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

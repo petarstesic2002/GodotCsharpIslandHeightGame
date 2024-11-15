@@ -1,0 +1,73 @@
+QA Report
+
+Bugs that Came Up:
+
+1. Map Grid Off-Center and Too Large
+
+Observation: When starting the project, the map grid appeared too large and was not aligned properly on the screen. This made it difficult to view or interact with the grid.
+Solution:
+Introduced a grid system using container nodes (HBoxContainer, VBoxContainer, and GridContainer).
+Set container sizes dynamically based on the viewport size using the GetViewportRect method.
+Updated cell sizes dynamically to fit within the grid container while maintaining their proportions.
+
+2. Island List Not Populated in IdentifyIslands
+
+Observation: The IdentifyIslands method wasn’t populating the _islands list because the Cells dictionary was empty after being populated in SetGridContainerData.
+Solution:
+Converted the SetUpUI method into an async Task to allow it to be awaited.
+Ensured that StartGame awaited the SetUpUI method, so the Cells dictionary was populated before IdentifyIslands was called.
+
+3. Fetching Cells from Cells Dictionary in Game
+
+Observation: Using a Dictionary<Vector2, Cell> for the Cells property caused issues in retrieving cells using the FloodFill method. The key-based retrieval was unreliable due to complexity in managing Vector2 keys.
+Solution:
+Replaced the Dictionary<Vector2, Cell> with a MultiKeyDictionary<int, int, Cell> where the keys were explicitly x and y coordinates.
+Adjusted FloodFill to use these two keys for simplified and more reliable cell retrieval.
+This change allowed the FloodFill algorithm to work as intended, grouping cells into contiguous islands.
+
+
+
+How I Would Test Other Projects
+
+If I were testing the projects of other contestants, here’s what I’d do:
+
+Inputs to Test:
+
+I’d try maps of different sizes, like 10x10, 30x30, and even 100x100 grids, to see how the game handles scaling.
+I’d test maps with various layouts, like many small islands, one large island, or maps with no land at all.
+Actions to Perform:
+
+Select different cells to check if they highlight correctly and enable the confirm button.
+Purposely make wrong guesses to see if the lives system works and the game ends when lives run out.
+Choose the correct island to test the victory screen.
+Check different resolutions to see if the grid and UI are adjusted properly.
+
+Expected Results:
+The game should correctly identify islands, track player choices, and handle edge cases.
+UI should maintain proper layout regardless of resolution.
+
+
+
+Improvements I’d Make with Unlimited Resources
+If I had a magic wand, here’s what I’d love to add:
+
+Smarter Island Detection: Optimize the flood fill algorithm to work faster, especially on larger maps, by using multi-threading or GPU acceleration.
+
+Custom Game Settings: Let players configure map sizes, the number of lives, and the threshold for what counts as an island.
+
+Enhanced Visuals: Add animations for selecting cells and transitions to victory/loss screens. Also, allow players to zoom and pan across large maps.
+
+Multiplayer Mode: Add a competitive mode where players take turns guessing islands and score points based on accuracy and speed.
+
+Random Map Generator: Include a feature to generate random maps for endless replayability, ensuring each map has valid islands.
+
+
+
+Factors That Could Affect My Solution
+Map Size: Larger maps (e.g., 100x100) could slow down the game due to the increased number of cells. Optimization is key for scalability.
+
+Number of Lives: Fewer lives make the game harder, while too many could make it boring. Balancing this is important.
+
+UI Scaling: Different screen sizes and aspect ratios might break the layout. Testing dynamic resizing is essential for a smooth experience.
+
+Data Errors: Malformed map data or missing inputs could crash the game. Adding robust validation at the start would help avoid this.
