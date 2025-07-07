@@ -1,4 +1,6 @@
 # GodotCsharpIslandHeightGame
+
+## This app does currently not work due to nordeus disabling their api, I am in process of creating my own map-generation algorithm
  
 ## Do this first
 If you are just trying the game executable, you don't need anything except the `executable` folder.
